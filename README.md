@@ -4,7 +4,7 @@
 -  📚 I’m currently learning Python, and looking futher into C++.
 -  💻  I'm a Computer Engineering Student at SENAI Cimatec.
 -  📩 To reach me: neivajoseph@gmail.com.
-
+ 
 <div>
 
 ![Josephs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neiva04&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues)
